@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 
-public class Exercicio2 {
+public class Ex2 {
 
     public static void main(String[] args) {
 
