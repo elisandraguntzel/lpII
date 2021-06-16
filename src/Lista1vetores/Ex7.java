@@ -1,4 +1,4 @@
-package RevisaoVetores;
+package Lista1vetores;
 
 import java.util.Scanner;
 public class Ex7 {

@@ -1,4 +1,4 @@
-package Lista3;
+package Lista3string;
 
 public class Ex1 {
     public static void main(String[] args) {
