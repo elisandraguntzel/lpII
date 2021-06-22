@@ -1,4 +1,4 @@
-package Lista3string;
+package Atividade4;
 import java.util.Scanner;
 
 public class Ex2 {

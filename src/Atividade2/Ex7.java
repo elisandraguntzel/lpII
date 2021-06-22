@@ -1,4 +1,4 @@
-package Lista1vetores;
+package Atividade2;
 
 import java.util.Scanner;
 public class Ex7 {

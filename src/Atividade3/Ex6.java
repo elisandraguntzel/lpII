@@ -1,4 +1,4 @@
-package Lista2string;
+package Atividade3;
 import java.util.Scanner;
 import java.util.Random;
 
