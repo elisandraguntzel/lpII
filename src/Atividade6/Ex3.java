@@ -26,17 +26,19 @@ public class Ex3 {
 
             System.out.println("Informe o nome que deseja excluir: ");
             s = ler.nextLine();
-            pessoas.remove(s);
-            System.out.println("Nome Removido!");
+            if(pessoas.equals("clear")){
+                pessoas.clear();
+                System.out.print("A lista foi limpa");
+
+            }else{
+                System.out.printf("O nome " +s+ " foi removido!\n");
+                pessoas.remove(s);
+            }
 
 
-            System.out.println("Digite clear para limpar a lista ");
-            s = ler.nextLine();
-            pessoas.clear();
+            System.out.print("Lista Atualizada " +pessoas);
 
 
-
-        System.out.print(pessoas);
 
 
 
