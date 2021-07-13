@@ -19,7 +19,7 @@ public class Ex3 {
             System.out.println("Escolha uma das opções: \n");
             System.out.print("1 - cadastrar \n");
             System.out.print("2 - listas \n");
-            System.out.print("3 - remover \n");
+            System.out.print("3 - remover \n"); 
             System.out.print("0 - sair \n");
 
             aux = ler.nextInt();
