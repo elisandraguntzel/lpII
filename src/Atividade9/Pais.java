@@ -3,10 +3,10 @@ import java.util.ArrayList;
 
 public class Pais {
 
-    private String codigoIso;
-    private String nome;
-    private Integer pop;
-    private Double dimensao;
+    public String codigoIso;
+    public String nome;
+    public Integer pop;
+    public Double dimensao;
     public ArrayList<Pais> paisFronteira = new ArrayList<Pais>();
 
     public Pais(String codigoIso, String nome, Double dimensao, Integer pop) {
